@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c\ arrayPremium
+comment0.target=Premium(priceComponent,\ java.lang.String[])
+comment1.params=
+comment1.target=double\ operation()
+comment2.params=in
+comment2.target=double\ addedBehavior(double)
+numComments=3
